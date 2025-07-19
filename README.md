@@ -51,6 +51,12 @@ As a data analyst intern, I was tasked with delivering insights that would infor
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot]()
+
+---
+
 ## 🔗 Live Tableau Dashboard
 
 👉 [Click here to view the interactive dashboard](https://public.tableau.com/app/profile/shrabani.singha/viz/OnlineRetailAnalysis_17527648931960/OnlineRetailAnalysis)  
