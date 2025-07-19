@@ -88,7 +88,9 @@ Aspiring Data Analyst | 3rd Year B.Tech (Electrical Engineering)
 
 ## 📜 License
 
-This project is part of a virtual internship simulation and is for **educational showcase purposes only**.
+This repository and its contents are intended for **educational and portfolio purposes only**.  
+All company names, datasets, and simulations are part of a **virtual experience** hosted by Forage. **No commercial use is allowed**.
+
 
 
 
