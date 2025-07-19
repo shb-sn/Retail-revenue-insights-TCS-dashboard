@@ -59,7 +59,7 @@ As a data analyst intern, I was tasked with delivering insights that would infor
 
 ## 🔗 Live Tableau Dashboard
 
-👉 [Click here to view the interactive dashboard]([https://public.tableau.com/views/YourDashboardName/Sheet1](https://public.tableau.com/views/OnlineRetailAnalysis_17527648931960/OnlineRetailAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+👉 [Click here to view the interactive dashboard](https://public.tableau.com/app/profile/shrabani.singha/viz/OnlineRetailAnalysis_17527648931960/OnlineRetailAnalysis)  
 
 ---
 
@@ -82,7 +82,7 @@ As a data analyst intern, I was tasked with delivering insights that would infor
 **Shrabani Singha**  
 Aspiring Data Analyst | 3rd Year B.Tech (Electrical Engineering)  
 🎓 NIT Agartala | 🎖️ Siemens & Infosys Scholar  
-📧 [LinkedIn](www.linkedin.com/in/shrabani-singha) | [GitHub](github.com/shb-sn)
+📧 [LinkedIn](https://www.linkedin.com/in/shrabani-singha) | [GitHub](https://github.com/shb-sn)
 
 ---
 
