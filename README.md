@@ -53,7 +53,7 @@ As a data analyst intern, I was tasked with delivering insights that would infor
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/shb-sn/Retail-revenue-insights-TCS-dashboard/blob/main/dashboard_tcs_image.png.png)
 
 ---
 
