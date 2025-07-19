@@ -80,5 +80,9 @@ Aspiring Data Analyst | 3rd Year B.Tech (Electrical Engineering)
 
 ---
 
+## 📜 License
+
+This project is part of a virtual internship simulation and is for **educational showcase purposes only**.
+
 
 
