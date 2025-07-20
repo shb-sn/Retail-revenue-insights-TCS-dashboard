@@ -21,14 +21,14 @@ As a data analyst intern, I was tasked with delivering insights that would infor
 
 ## 🧩 Project Tasks & Deliverables
 
-### ✅ Task 1: Business Questions
+### ✅ Task 1: Insight Development for Leadership
 - Prepared **4 stakeholder-specific questions**:
   - CEO → Focused on **seasonality** and **revenue trends**
   - CMO → Targeted **geographical performance** and **market expansion**
 
 ### ✅ Task 2: Visualization Literacy
-- Completed quiz on **effective chart usage**
-- Applied insights to dashboard design
+- Completed an applied quiz focused on **data storytelling and visual cognition**.
+- Learned when and why to choose the most effective chart types based on the **audience, purpose, and complexity of the data** — applying core visualization principles like *clarity, comparison, and simplicity*.
 
 ### ✅ Task 3: Dashboard Development
 - Created the following Tableau visuals:
@@ -41,13 +41,14 @@ As a data analyst intern, I was tasked with delivering insights that would infor
   4. **Map Chart** – Regional sales overview  
      🗺️ *Insight:* Expansion opportunities in Asia, Africa & Americas
 
-- Combined these into a clean, functional **executive dashboard**
+- These were integrated into a **single interactive dashboard** for executive decision-making.
 
-### ✅ Task 4: Video Presentation
-- Recorded a walkthrough explaining:
-  - Chart selection logic
+### ✅ Task 4: Executive-Level Video Presentation
+- Recorded a final walkthrough video explaining:
+  - Each chart selection logic
   - Formatting choices (color, layout)
   - Strategic recommendations for leadership
+- Demonstrated proficiency in **data storytelling**, **dashboard interactivity**, and **tailoring communication for CXO-level stakeholders**.
 
 ---
 
