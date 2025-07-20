@@ -1,5 +1,5 @@
 ## 📊 Retail Revenue Insights Dashboard  
-*Tata Consultancy Services | Data Visualisation: Empowering Business with Effective Insights Job Simulation (Forage, July 2025)*
+*Tata | Data Visualisation: Empowering Business with Effective Insights Job Simulation (Forage, July 2025)*
 
 - Analyzed over **12,000+ rows** of retail transaction data using Excel and Tableau
 - Created 4 strategic visualizations: **line chart, bar chart, color-graded comparison, and map**
