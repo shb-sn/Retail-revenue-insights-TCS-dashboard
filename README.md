@@ -1,6 +1,6 @@
 # 🛍️ Retail Revenue Insights Dashboard
 
-This project was completed as part of the **Tata Consultancy Services (TCS) Data Visualisation: Empowering Business with Effective Insights** job simulation on the Forage platform in **July 2025**. The objective was to analyze large-scale retail data, uncover business insights, and present executive-ready visualizations for leadership decision-making.
+This project was completed as part of the **Tata Data Visualisation: Empowering Business with Effective Insights** job simulation on the Forage platform in **July 2025**. The objective was to analyze large-scale retail data, uncover business insights, and present executive-ready visualizations for leadership decision-making.
 
 ---
 
